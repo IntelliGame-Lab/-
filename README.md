@@ -4,4 +4,4 @@
 
 学位课包括有限自动机、组合数学、随机过程等.
 
-很多资料可以参考这个网站
+很多资料可以参考这个网站 https://github.com/Xovee/uestc-course
